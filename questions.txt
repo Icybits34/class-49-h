@@ -1,0 +1,38 @@
+
+Collection of items of same data type
+- Array
+
+A Sprite gets speed in a direction!!
+- velocity
+
+Electronic machine used for programming!!
+- computer
+
+Popular gaming library in JavaScript!!
+- p5.js
+
+Physics library for gaming in JavaScript!!
+- Matter.js
+
+Block based coding platform!!
+- code.org
+
+Changing size of sprite!!
+- scale
+
+Logical conditions are coded using me!!
+- if statement
+
+I loop code and make it shorter!!
+- for loop
+
+Allows to execute sprites code continuously!!
+- drawSprites
+
+I have many objects of my type!!
+- class
+
+Special function- creates and initializes an object instance of a class
+- constructor
+
+
